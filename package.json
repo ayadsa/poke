@@ -30,15 +30,9 @@
     "build": "webpack",
     "watch": "webpack --watch"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Rocio01/weather-app.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Rocio01/weather-app/issues"
   },
-  "homepage": "https://github.com/Rocio01/weather-app#readme"
 }
